@@ -1,6 +1,6 @@
 Name:		texlive-plex-otf
 Version:	47562
-Release:	1
+Release:	2
 Summary:	Support for the OpenType font IBM Plex
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/plex-otf
