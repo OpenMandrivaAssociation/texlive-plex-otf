@@ -3,7 +3,7 @@ Version:	68238
 Release:	1
 Summary:	Support for the OpenType font IBM Plex
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/plex-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/plex-otf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/plex-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/plex-otf.doc.r%{version}.tar.xz
